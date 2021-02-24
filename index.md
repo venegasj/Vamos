@@ -1,5 +1,23 @@
 ## Welcome to GitHub Pages
 
+[Create Profile](Create-Profile.html)
+[Link other Social Media](Link-other-Social-Media.html)
+[Edit Profile](Edit-Profile.html)
+[Access Details](Access-Details.html)
+[Send Messages](Send-Messages.html)
+[See availible Users](See-availible-Users.html)
+[Schedule Tasks](Schedule-Tasks.html)
+[Review other Users](Review-other-Users.html)
+[View other Reviews](View-other-Reviews.html)
+[Get Support](Get-Support.html)
+[Post Ads](Post-Ads.html)
+[Verify as Famouse User](Verify-as-Famouse-User.html)
+
+
+
+
+
+
 You can use the [editor on GitHub](https://github.com/venegasj/Vamos/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
