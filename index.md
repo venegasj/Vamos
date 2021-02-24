@@ -1,16 +1,27 @@
 ## Welcome to GitHub Pages
 
 [Create Profile](Create-Profile.html)
+
 [Link other Social Media](Link-other-Social-Media.html)
+
 [Edit Profile](Edit-Profile.html)
+
 [Access Details](Access-Details.html)
+
 [Send Messages](Send-Messages.html)
+
 [See availible Users](See-availible-Users.html)
+
 [Schedule Tasks](Schedule-Tasks.html)
+
 [Review other Users](Review-other-Users.html)
+
 [View other Reviews](View-other-Reviews.html)
+
 [Get Support](Get-Support.html)
+
 [Post Ads](Post-Ads.html)
+
 [Verify as Famouse User](Verify-as-Famouse-User.html)
 
 
