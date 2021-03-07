@@ -1,10 +1,12 @@
 ## Welcome to GitHub Pages
 
-[Create Profile](Create-Profile.html)
+[Create Profile](Create-Account.html)
+
+[Login](Login.html)
 
 [Link other Social Media](Link-other-Social-Media.html)
 
-[Edit Profile](Edit-Profile.html)
+[Customize Profile](Customize-Profile.html)
 
 [Access Details](Access-Details.html)
 
